@@ -5,6 +5,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "lint": "eslint src --ext .ts",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
